@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Akash04-9/Project_1.git/static/css/main.bf538fe7.css",
+    "main.js": "/Akash04-9/Project_1.git/static/js/main.1410480c.js",
+    "static/media/AkashPro.jpg": "/Akash04-9/Project_1.git/static/media/AkashPro.452e828b649515cfff3f.jpg",
+    "index.html": "/Akash04-9/Project_1.git/index.html",
+    "main.bf538fe7.css.map": "/Akash04-9/Project_1.git/static/css/main.bf538fe7.css.map",
+    "main.1410480c.js.map": "/Akash04-9/Project_1.git/static/js/main.1410480c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1410480c.js"
+  ]
+}
